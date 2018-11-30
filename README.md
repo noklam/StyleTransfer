@@ -7,6 +7,15 @@ Install
 pip install torch torchvision
 git clone https://github.com/noklam/StyleTransfer.git
 ```
+Demo
+-----
+
+Image | Generated
+----|-----
+<img src="content/magic.jpg"  width="256" height="256" />| <img src="img/magic_fire_Classic_0.0001.jpg"  width="256" height="256" />
+<img src="style/fire.jpg"  width="256" height="256" /> | <img src="img/magic_fire_Classic_0.0001.gif"  width="256" height="256" />
+
+
 
 Usage
 -----
